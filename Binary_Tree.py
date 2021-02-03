@@ -82,7 +82,9 @@ def build_tree(elements):
 	return root
 
 if __name__ == '__main__':
-	number = [90, 0, 9, 0, 3, 100]
+	number = [90, 0, 9, 0, 3, 100, 67]
+        
+
 
 	number_tree = build_tree(number)
 
